@@ -1,2 +1,2 @@
 # dice-ino
-Dado em arduino
+Dado em arduino com controlador de velocidade
